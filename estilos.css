@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header ul li a {
+  color: black;
+}
+header ul li:hover {
+  color: rgb(29, 161, 242);
+}
+.btnmenu:hover {
+  background-color: gainsboro;
+  border-radius: 20px;
+}
+
+#btn-twittear {
+}
+#btn-twittear button {
+  background-color: rgb(29, 161, 242);
+  border-color: rgb(29, 161, 242);
+  width: 150px;
+  border-radius: 20px;
+}
+#btn-twittear button:hover {
+  background-color: rgb(18, 157, 242);
+}
